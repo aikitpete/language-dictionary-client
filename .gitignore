@@ -1,0 +1,16 @@
+# java
+*.class
+*.log
+.gradle/
+build/
+out/
+target/
+.idea/
+*.iml
+
+# common
+.git/
+.DS_Store
+.idea/
+.vscode/
+*.iml
